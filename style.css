@@ -1,1 +1,26 @@
+body {
+    font-family: sans-serif;
+}
 
+h1 {
+    text-align: center;
+    background-image:linear-gradient(to right,yellow,white);
+    padding: 15px;
+}
+
+p {
+    background-image:linear-gradient(#A967D5,#6B90D4);
+    color: white;
+    padding: 10px;
+    font-size:20px;
+}
+
+ main img {
+    width: 750px;
+    height: 500px;
+}
+
+li {
+    background-image:linear-gradient(#A967D5,#6B90D4);
+    color: white;
+}
